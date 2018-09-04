@@ -1,6 +1,7 @@
+package H04;
+
 import java.awt.*;
 import java.applet.*;
-
 
 public class H042 extends Applet {
 
