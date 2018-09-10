@@ -3,7 +3,7 @@ package H04;
 import java.awt.*;
 import java.applet.*;
 
-public class H045 extends Applet {
+public class H045_Dobbelsteen extends Applet {
 
     public void init () {
     }

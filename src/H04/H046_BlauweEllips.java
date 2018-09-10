@@ -3,7 +3,7 @@ package H04;
 import java.awt.*;
 import java.applet.*;
 
-public class H046 extends Applet {
+public class H046_BlauweEllips extends Applet {
 
     public void init () {
     }

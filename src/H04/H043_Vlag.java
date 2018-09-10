@@ -3,7 +3,7 @@ package H04;
 import java.awt.*;
 import java.applet.*;
 
-public class H043 extends Applet {
+public class H043_Vlag extends Applet {
 
     public void init() {
     }
