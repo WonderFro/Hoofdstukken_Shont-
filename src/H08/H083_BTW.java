@@ -4,21 +4,19 @@ import java.awt.*;
 import java.applet.*;
 import java.awt.event.*;
 
-public class H083_BTW extends Applet {
-    TextField tekstvak;
-    Label label;
-    double getal, num;
-    Button knop;
-    String s, text;
+    public class H083_BTW extends Applet {
+        TextField tekstvak;
+        Label label;
+        double getal, num;
+        Button knop;
+        String s, text;
 
     public void init () {
         tekstvak = new TextField(" ", 20);
         tekstvak.addActionListener(new Tekstvaklistener ());
         label = new Label("BTW berekenen");
-
         add(label);
         add(tekstvak);
-
         s = "";
     }
 
